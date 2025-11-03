@@ -6,10 +6,10 @@ Problem Statement
 ####  Right now, most e-commerce reports are static and hard to explore. They don’t give business teams enough visibility into how sales, shipping, and product performance change over time.
 #### Managers struggle to see which categories sell best, which states bring in the most orders, or where shipping delays happen. To solve this, we need an interactive Power BI dashboard that combines sales, category, and courier data — making it easier to spot patterns, track progress, and make informed business decisions.
 
-Objective
+## Objective
 
-The goal of this project is to build a dynamic and easy-to-use Power BI dashboard that gives a complete view of e-commerce sales performance.
-It helps users:
+###### The goal of this project is to build a dynamic and easy-to-use Power BI dashboard that gives a complete view of e-commerce sales performance.
+###### It helps users:
 
 Track overall sales, order quantities, and shipping performance.
 
@@ -23,28 +23,28 @@ In short, the dashboard helps business teams make data-driven decisions that imp
 
 Dashboard Overview: E-Commerce Sales Summary
 
-Purpose:
+###### Purpose:
 To give a quick yet detailed summary of sales performance, product categories, and shipment status across different states in India.
 
-Key Features
+###### Key Features
 
-Main KPIs:
+###### Main KPIs:
 Cards showing Total Quantity, Total Categories, Total Products, Total States, and Total Sizes — a quick view of business performance.
 
-Sales by Channel:
+###### Sales by Channel:
 Compare how Amazon and Non-Amazon sales contribute to total orders and revenue.
 
-Shipping Insights:
+###### Shipping Insights:
 Understand the share of Shipped, Cancelled, and Pending orders — helping evaluate courier and delivery performance.
 
-Sales Trend Over Time:
+###### Sales Trend Over Time:
 Track monthly changes in quantity and revenue by product category to identify which items are performing best.
 
-Regional Insights:
+###### Regional Insights:
 See Top 6 States by Quantity and visualize sales distribution across India on a map for better regional understanding.
 
-Category Analysis:
+###### Category Analysis:
 Explore which product categories bring in the highest sales and how they compare month to month.
 
-Interactive Filters:
+###### Interactive Filters:
 Filter data by Category, State, Courier Status, or Sales Channel to view insights from different angles
