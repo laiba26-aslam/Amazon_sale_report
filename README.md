@@ -42,9 +42,22 @@ Track monthly changes in quantity and revenue by product category to identify wh
 
 ###### Regional Insights:
 See Top 6 States by Quantity and visualize sales distribution across India on a map for better regional understanding.
-
+ 
 ###### Category Analysis:
 Explore which product categories bring in the highest sales and how they compare month to month.
 
 ###### Interactive Filters:
 Filter data by Category, State, Courier Status, or Sales Channel to view insights from different angles
+## Expected Results
+
+A clear, visual summary of overall e-commerce performance.
+
+Easy identification of top-performing categories and regions.
+
+Better understanding of courier efficiency and cancellation trends.
+
+Actionable insights to improve product planning and sales strategies.
+Expected Results
+
+ 
+
